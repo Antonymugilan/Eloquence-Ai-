@@ -1,0 +1,113 @@
+{
+    "PartsOfSpeech": {
+      "Nouns": [
+        "Book", "Tree", "Sky", "Dog", "Umbrella", "Festival", "Team", "Project", "Deadline", "Algorithm"
+      ],
+      "Verbs": [
+        "Enjoy", "Help", "Start", "Finish", "Believe", "Submit", "Review", "Organize", "Execute", "Manage"
+      ],
+      "Adjectives": [
+        "Blue", "Beautiful", "Complicated", "Difficult", "Enthusiastic", "Vivid", "Brilliant", "Necessary", "Incredible"
+      ],
+      "Adverbs": [
+        "Thoroughly", "Finally", "Possibly", "Amazingly", "Unbelievably", "Brilliantly", "Incredibly", "Enthusiastically"
+      ],
+      "Pronouns": [
+        "She", "It", "You", "They", "We", "He", "I"
+      ],
+      "Determiners": [
+        "The", "This", "That", "Those", "Every", "Some", "All", "Any"
+      ],
+      "Prepositions": [
+        "Under", "With", "Before", "After", "Despite", "Without", "During", "For", "In"
+      ],
+      "Conjunctions": [
+        "And", "Or", "But", "Although", "Despite", "Because", "So", "While"
+      ],
+      "Interjections": [
+        "Wow", "Oh", "Aha", "Ouch", "Bravo", "Oops", "Hey", "Well"
+      ],
+      "Basic": [
+        "The cat is sleeping",
+        "I am reading",
+        "She is walking"
+      ],
+      "Intermediate": [
+        "They are playing football",
+        "He is writing a letter",
+        "We are studying English"
+      ]
+    },
+    "Sentences": {
+      "Declarative": [
+        "The sky is blue.",
+        "She enjoys reading books.",
+        "The dog sleeps under the tree.",
+        "The sun rises in the east.",
+        "Cats are popular household pets.",
+        "Paris is the capital of France.",
+        "The Earth orbits the Sun.",
+        "Reading improves vocabulary.",
+        "Bananas are a good source of potassium.",
+        "Cars require regular maintenance."
+      ],
+      "Interrogative": [
+        "How are you doing today?",
+        "Can you help me with this task?",
+        "What time does the movie start?"
+      ],
+      "Imperative": [
+        "Please close the door.",
+        "Finish your homework before dinner.",
+        "Take the umbrella with you."
+      ],
+      "Exclamatory": [
+        "Wow, that was amazing!",
+        "I can't believe we won!",
+        "What a beautiful day!"
+      ],
+      "Simple": [
+        "I like to eat pizza",
+        "The weather is nice today",
+        "My friend lives in London"
+      ],
+      "Complex": [
+        "Could you please help me with this?",
+        "I would like to visit Paris next year",
+        "She enjoys reading books in the library"
+      ]
+    },
+    "ComplicatedSentences": {
+      "Declarative": [
+        "Despite the constant rain, the festival continued without any interruptions, drawing in a large crowd of enthusiastic attendees.",
+        "The project, which had been delayed for several months, was finally completed thanks to the team's unwavering dedication and long hours.",
+        "Even though the presentation was scheduled for 9 AM, John managed to finish preparing only minutes before it started."
+      ],
+      "Interrogative": [
+        "How could you possibly finish such a complicated task in so little time when everyone else struggled with it?",
+        "Why didn't you inform me earlier that the deadline had been extended by the committee after the last meeting?",
+        "Can you explain how the implementation of such a complex algorithm works in real-world scenarios?"
+      ],
+      "Imperative": [
+        "Ensure that all the necessary documents are submitted before the end of the day, or we may face penalties.",
+        "Review the proposal thoroughly and provide feedback on any areas that need improvement before the next team meeting.",
+        "Organize the files in the correct order and make sure to include all the updated reports in the final submission."
+      ],
+      "Exclamatory": [
+        "Wow, I can't believe how brilliantly they executed that incredibly difficult maneuver during the performance!",
+        "What an unbelievably beautiful sunset over the horizon, with colors that seem almost too vivid to be real!",
+        "This is just incredible! How on earth did we manage to pull this off against all odds?"
+      ],
+      "Advanced": [
+        "The magnificent sunset painted the sky in brilliant hues",
+        "Despite the challenges, she persevered and achieved her goals",
+        "The intricate pattern of the butterfly's wings fascinated everyone"
+      ],
+      "Professional": [
+        "The quantum physicist explained the theory of relativity",
+        "The archaeological discovery revolutionized our understanding of ancient civilizations",
+        "The symposium featured groundbreaking research in artificial intelligence"
+      ]
+    }
+  }
+  
