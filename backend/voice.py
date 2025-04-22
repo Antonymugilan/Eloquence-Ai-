@@ -3,7 +3,7 @@ import io
 import pygame
 
 # Initialize client with your API key
-client = ElevenLabs(api_key="sk_9e0646009b2451a9f3bb7f0fb9ff31e66eadc1ba600e69e8")
+client = ElevenLabs(api_key="YOUR_API_KEY")
 
 # Initialize pygame mixer
 pygame.mixer.init()
